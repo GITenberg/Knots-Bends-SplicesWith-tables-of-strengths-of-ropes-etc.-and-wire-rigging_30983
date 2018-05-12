@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34934'
     url: http://www.gutenberg.org/2009/agents/34934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30983#Knots-Bends-SplicesWith-tables-of-strengths-of-ropes-etc.-and-wire-rigging
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
 identifiers:
