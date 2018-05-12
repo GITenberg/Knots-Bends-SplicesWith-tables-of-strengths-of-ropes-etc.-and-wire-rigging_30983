@@ -1,0 +1,29 @@
+_repo: Knots-Bends-SplicesWith-tables-of-strengths-of-ropes-etc.-and-wire-rigging_30983
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30983-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Jutsum, Captain
+    alias: Jutsum, J. Netherclift (James Netherclift)
+    birthdate: 1868
+    deathdate: 1916
+    gutenberg_agent_id: '34934'
+    url: http://www.gutenberg.org/2009/agents/34934
+description: ''
+gutenberg_issued: '2010-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knots and splices'
+- !lcc 'VM'
+title: 'Knots, Bends, Splices
+
+  With tables of strengths of ropes, etc. and wire rigging'
+url: http://www.gutenberg.org/ebooks/30983
